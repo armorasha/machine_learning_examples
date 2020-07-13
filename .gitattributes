@@ -1,0 +1,3 @@
+# `.gitattributes` file which reclassifies `.html` files as .py, for github to ...
+# ...show the repo language as Python instead of HTML:
+*.html linguist-language=Python
